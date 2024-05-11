@@ -1,6 +1,6 @@
 ---
 title: "RTL8821CE Wireless card fix on Ubuntu (and other Debian/Ubuntu based distros)"
-seoTitle: "RTL8821CE Wireless card fix on Ubuntu"
+seoTitle: "RTL8821CE Wireless card fix on Linux"
 seoDescription: "For some reason, the rtl8821ce WiFi hardware works poorly or not at all on most Linux distros. In this guide, we want to build and install this driver"
 datePublished: Sun Oct 29 2023 18:27:50 GMT+0000 (Coordinated Universal Time)
 cuid: clobt096n000509li2deohhyl
@@ -11,9 +11,11 @@ tags: ubuntu, linux, debian, foss, wireless-network
 
 ---
 
+### [لینک نسخه فارسی این نوشته](https://fa.note.al1almasi.ir/rtl8821ce-wireless-card-fix-on-ubuntu)
+
 For some reason, the rtl8821ce WiFi hardware works poorly or not at all on most Linux distros. The driver used in the Linux kernel for this hardware is outdated or for other reasons that I don't know about, it doesn't work properly. The solution to this problem is a driver developed by [a friend from Portugal](https://github.com/tomaspinho) and placed on GitHub.
 
-**In this guide, we want to build and install this driver on our Ubuntu (I suppose this guide will work in other Debian/Ubuntu-based distros like Linux Mint).**
+**In this guide, we want to build and install this driver on our Ubuntu.**
 
 > Warning: Before proceeding, take a snapshot of your system for safety.
 
@@ -25,7 +27,7 @@ Open a Terminal and follow along:
     
 3. Remove the `rtl8821ce-dkms` if it is present: `sudo apt remove rtl8821ce-dkms`
     
-4. Clone the driver and get in the directory of the cloned driver: `git clone` [`https://github.com/tomaspinho/rtl8821ce.git`](https://github.com/tomaspinho/rtl8821ce.git) `&& cd rtl8821ce`
+4. Clone the driver and get in the directory of the cloned driver: `git clone`[`https://github.com/tomaspinho/rtl8821ce.git`](https://github.com/tomaspinho/rtl8821ce.git)`&& cd rtl8821ce`
     
 5. Prepare/Build the driver: `sudo m-a prepare`
     
