@@ -11,6 +11,8 @@ tags: cloudflare, websockets, iran, cloudflare-worker, filternet
 
 ---
 
+### [نسخه فارسی این نوشته اینجاست](https://fa.note.al1almasi.ir/easy-vless-config-with-cf-worker)
+
 ## How to use this?
 
 It's Super easy (you don't need any server). Just create a CF Worker and then copy & paste all of the [worker.js file's content](https://raw.githubusercontent.com/AliAlmasi/vless-cf-worker/main/worker.js) as the worker's configuration, then do all of these things:
