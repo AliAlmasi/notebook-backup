@@ -20,7 +20,7 @@ Recently, the Iranian government [has made changes](https://digiato-com.translat
 
 [This user's issue](https://github.com/AliAlmasi/unforce-safesearch/issues/1) shows that not only Google, but also Bing has been forcibly placed on SafeSearch for Iranian users. Therefore, we put the necessary codes to bypass the restriction placed on Bing inside this text. If you have done the settings related to Google in the past, you can only put the part related to Bing in the `resolv.conf` file in Linux and Mac or `hosts` file in Windows.
 
-If you see similar problems regarding forcing SafeSearch for Iranian users on other search engines, you can register the case in the Issues section of this repository so that it can be included in this guide. Your contribution may help many people behind Iran's Filternet.
+If you see similar problems regarding forcing SafeSearch for Iranian users on other search engines, you can register the case in the Issues section of [this repository](https://github.com/alialmasi/unforce-safesearch) so that it can be included in this guide. Your contribution may help many people behind Iran's Filternet.
 
 ## How to bypass this?
 
