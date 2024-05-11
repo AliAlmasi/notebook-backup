@@ -12,6 +12,8 @@ tags: dns, google, networking, iran, bin
 
 ---
 
+### [Persian - لینک نسخه فارسی این نوشته](https://fa.note.al1almasi.ir/unforce-safesearch)
+
 Recently, the Iranian government [has made changes](https://digiato-com.translate.goog/article/2022/07/12/safesearch-internet-mobile?_x_tr_sl=fa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) in the national DNS servers, which causes all DNS requests for Google to be sent to the domain `forcesafesearch.google.com` (to IP `216.239.38.120`), which forces all Google users, regardless of their settings, to use Google with the SafeSearch on.
 
 ## UPDATE - BING IS POISONED TOO:
