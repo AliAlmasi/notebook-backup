@@ -20,7 +20,7 @@ This project is updated hourly, so people can use "fresh" configs and circumvent
 
 I'm going to use [***Hiddify Next***](https://github.com/hiddify/hiddify-next) to show you how you can use Telegram V2ray Collector. *Hiddify Next* is available to install on Windows, Linux and Android devices (Also available on Google Play and Microsoft Store).
 
-First, install this program so you can use proxy subscriptions. You can install *Hiddify Next* on any desktop operating system (Also [available on AUR](https://aur.archlinux.org/packages/hiddify-next-bin) for Arch Linux users). if you need any documentation or guides on installing it, you can [visit their website](https://hiddify.com/app/).
+First, install this program so you can use proxy subscriptions. You can install *Hiddify Next* on any desktop operating system (Also [available on AUR](https://aur.archlinux.org/packages/hiddify-next-bin) for Arch Linux users btw). if you need any documentation or guides on installing it, you can [visit their website](https://hiddify.com/app/).
 
 You may install and use any V2ray/Xray client program you like to (e.g. v2rayN on Windows, or v2rayNG on Android), as they all use the same [V2ray](https://github.com/v2ray/v2ray-core)/[Xray](https://github.com/XTLS/Xray-core) core.
 
@@ -40,7 +40,7 @@ I've setup *HN* which uses Xray core, so we have to copy the Xray subscription l
 
 The difference between raw *(plaintext)* subscription and the *Base64* subscription is that when you open the [raw subscription link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix), you can see the information that link contains, but Base64 subscription link's information are encoded. Base64 may be helpful in networks where traffic is being constantly scanned and sniffed.
 
-I personally use the Base64 subscription link, so we're gonna copy the [**Xray (Base64)Group Mix link**](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix)**.***(you can copy the link by right clicking on*[*here*](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix)*and then select "Copy link")*
+I personally use the Base64 subscription link, so we're gonna copy the [**Xray (Base64)Group Mix link**](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix)**.** *(you can copy the link by right clicking on* [*here*](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix) *and then select "Copy link")*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1715513142406/e163392a-3c11-4334-9771-6c7da13ddafc.png align="left")
 
