@@ -18,7 +18,9 @@ This project, as its name already tells, collects V2ray configurations from over
 
 This project is updated hourly, so people can use "fresh" configs and circumvent the censorship more easily. You can use this project by adding its subscription link to your V2ray/Xray client program and you can update it every hour.
 
-I'm going to use [***Hiddify Next***](https://github.com/hiddify/hiddify-next) to show you how you can use Telegram V2ray Collector. *Hiddify Next* is available to install on Windows, Linux and Android devices (Also available on Google Play and Microsoft Store). First, install this program so you can use V2ray proxies. You can install *Hiddify Next* on any desktop operating system. if you need any documentation or guides on installing it, you can [visit their website](https://hiddify.com/app/).
+I'm going to use [***Hiddify Next***](https://github.com/hiddify/hiddify-next) to show you how you can use Telegram V2ray Collector. *Hiddify Next* is available to install on Windows, Linux and Android devices (Also available on Google Play and Microsoft Store).
+
+First, install this program so you can use proxy subscriptions. You can install *Hiddify Next* on any desktop operating system (Also [available on AUR](https://aur.archlinux.org/packages/hiddify-next-bin) for Arch Linux users). if you need any documentation or guides on installing it, you can [visit their website](https://hiddify.com/app/).
 
 You may install and use any V2ray/Xray client program you like to (e.g. v2rayN on Windows, or v2rayNG on Android), as they all use the same [V2ray](https://github.com/v2ray/v2ray-core)/[Xray](https://github.com/XTLS/Xray-core) core.
 
