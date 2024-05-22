@@ -1,6 +1,7 @@
 ---
 title: "Easy VLESS config with CF Worker"
-seoDescription: "Configuring VLESS with CF Worker Made Easy. Just create a CF Worker and then copy & paste all of the worker.js file's content as the worker's configuration"
+seoTitle: "Easy VLESS config with CF Worker"
+seoDescription: "Configuring VLESS with CF Worker Made Easy. Just create a CF Worker and then copy & paste all of the worker.js file's content as the worker's configuration."
 datePublished: Sat Aug 05 2023 00:04:33 GMT+0000 (Coordinated Universal Time)
 cuid: clkx9609p000109mtevm5chfi
 slug: easy-vless-config-with-cf-worker
@@ -31,9 +32,9 @@ It's Super easy (you don't need any server). Just create a CF Worker and then co
     
 7. Set your worker's domain as the ws host.
     
-8. Set any *Clean Cloudflare IP* as the destination address. You can use [IRCF.space](http://IRCF.space).
+8. Set any *Clean Cloudflare IP* as the destination address. You may use [<s>IRCF.space</s>](http://IRCF.space) [`engage.cloudflareclient.com`](http://engage.cloudflareclient.com) as the destination address.
     
-9. Set **443** as port.
+9. [Set **443** as](https://ircf.space/) port.
     
 10. And finally, set your own generated UUID as the configuration's UUID.
     
