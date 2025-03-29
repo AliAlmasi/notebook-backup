@@ -11,7 +11,7 @@ tags: contribution-to-open-source, persian, handsontable
 
 In the [latest release of Handsontable](https://handsontable.com/blog/handsontable-15.2.0-stability-improvements), [Persian translation](https://github.com/handsontable/handsontable/pull/11388), contributed by me, was included and I’m proud to be a part of Handsontable community and web open-source community.
 
-![](https://handsontable.com/blog/wp-content/uploads/2025/03/image.png align="center")
+![Handsontable context menu in Persian](https://handsontable.com/blog/wp-content/uploads/2025/03/image.png align="center")
 
 I hope I could be a more useful member of this community and also, Persian-speaking community.
 
