@@ -14,7 +14,7 @@ tags: privacy, android, iran
 
 ## What's "Island"?
 
-As many of us probably know, the trust in domestic (Islamic Republic) applications is decreasing day by day, and perhaps many of us - as far as we could - removed Iranian apps from our phones.
+As many of us probably know, the trust in domestic (Islamic Republic) applications is decreasing day by day, and perhaps many of us — as far as we could — removed Iranian apps from our phones.
 
 In this article, I want to introduce the [Island](https://github.com/oasisfeng/island) program. Using the [Work Mode](https://support.google.com/work/android/answer/6191949?hl=en) feature built into Android 5.0 and above, this program allows us to have two separate spaces in our phones.
 
