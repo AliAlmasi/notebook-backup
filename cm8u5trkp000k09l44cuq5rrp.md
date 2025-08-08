@@ -3,11 +3,12 @@ title: "Persian translation in new release of Handsontable"
 datePublished: Sat Mar 29 2025 12:00:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm8u5trkp000k09l44cuq5rrp
 slug: persian-translation-in-new-release-of-handsontable
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GVGnKgEomlw/upload/607d4ea973232a76441c3b4ce7f3daa7.jpeg
 tags: contribution-to-open-source, persian, handsontable
 
 ---
 
-[Handsontable](https://handsontable.com/) is a JavaScript data grid library for web applications, developed by [Handsoncode](https://handsoncode.net/about-us). It is an alternative to other data grid libraries such as [Tanstack table](https://tanstack.com/table/) and [react-data-grid](https://adazzle.github.io/react-data-grid/#/CommonFeatures).
+[Handsontable](https://handsontable.com/) is a JavaScript data grid library for web applications, developed by [Handsoncode](https://handsoncode.net/about-us). It is an alternative to other data grid libraries such as [Tanstack Table](https://tanstack.com/table/) and [react-data-grid](https://adazzle.github.io/react-data-grid/#/CommonFeatures).
 
 In the [latest release of Handsontable](https://handsontable.com/blog/handsontable-15.2.0-stability-improvements), [Persian translation](https://github.com/handsontable/handsontable/pull/11388), contributed by me, was included and I’m proud to be a part of Handsontable community and web open-source community.
 
