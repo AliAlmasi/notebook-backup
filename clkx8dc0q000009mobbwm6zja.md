@@ -5,7 +5,7 @@ seoDescription: "In this article, I want to introduce the Island program. Using 
 datePublished: Fri Aug 04 2023 23:42:15 GMT+0000 (Coordinated Universal Time)
 cuid: clkx8dc0q000009mobbwm6zja
 slug: make-a-separate-space
-canonical: httpgithub.com/AliAlmasi/separate-island
+canonical: github.com/AliAlmasi/separate-island
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691192412513/86edf03d-9043-4074-9fba-23aa8a7342f6.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691192335051/54432cd5-8c1e-4844-b614-b35e8f1130fc.jpeg
 tags: privacy, android, iran
